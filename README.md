@@ -1,6 +1,6 @@
 # 🏨 Sexto Desafio – Rede de Hotéis
 
-Este projeto faz parte do curso **SerFrontend** do meu estágio na **SULTS** e consiste em um **site responsivo** para uma rede de hotéis.
+Este projeto faz parte do curso **SerFrontend** e consiste em um **site responsivo** para uma rede de hotéis.
 O foco foi praticar **HTML5, CSS3 e responsividade** para diferentes tamanhos de tela.
 
 ---
